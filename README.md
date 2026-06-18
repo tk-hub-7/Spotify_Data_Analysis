@@ -1,6 +1,7 @@
 <img width="266" height="190" alt="images" src="https://github.com/user-attachments/assets/d5aadaea-eb7a-463d-8806-deabbedacdfd" />
 
 🎵 Spotify Data Analysis using SQL
+
 📌 Project Overview
 
 This project focuses on analyzing Spotify music streaming data using SQL to extract meaningful business insights. The dataset contains information about artists, tracks, albums, streaming performance, engagement metrics, and audio features such as danceability, energy, loudness, and liveness.
@@ -50,13 +51,17 @@ GitHub
 🔍 Project Workflow
 
 1️⃣ Database Creation
+
 Created Spotify table
 Defined appropriate data types
 Imported dataset into PostgreSQL
+
 2️⃣ Data Cleaning
+
 Identified missing or invalid values
 Removed records with zero duration
 Validated categorical columns
+
 3️⃣ Exploratory Data Analysis (EDA)
 
 Performed analysis such as:
@@ -65,6 +70,7 @@ Distinct artists count
 Album type distribution
 Most played platform analysis
 Maximum views, likes, comments, and streams
+
 4️⃣ Business Problem Solving
 
 Solved real-world analytical questions ranging from beginner to advanced SQL levels.
