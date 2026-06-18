@@ -73,23 +73,33 @@ Solved real-world analytical questions ranging from beginner to advanced SQL lev
 Basic Analysis
 
 ✔ Tracks with more than 1 Billion streams
+
 ✔ Albums and corresponding artists
+
 ✔ Total comments for licensed tracks
+
 ✔ Tracks released as Singles
+
 ✔ Number of tracks by each artist
 
 Intermediate Analysis
 
 ✔ Average danceability by album
+
 ✔ Top 5 highest-energy tracks
+
 ✔ Official video performance analysis
+
 ✔ Album-wise total views
+
 ✔ Tracks streamed more on Spotify than YouTube
 
 Advanced Analysis
 
 ✔ Top 3 most-viewed tracks for each artist using Window Functions
+
 ✔ Tracks with above-average liveness scores
+
 ✔ Album-wise energy variation analysis using CTEs
 
 📈 Key SQL Concepts Demonstrated
